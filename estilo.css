@@ -12,6 +12,9 @@ background: linear-gradient(90deg, rgba(95, 143, 47, 1) 0%, rgba(51, 46, 46, 1) 
 .conteudo{
     display: flex;
     flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+    background: #f5f5f5;
 }
 
 .img-relacaocampocidade{
